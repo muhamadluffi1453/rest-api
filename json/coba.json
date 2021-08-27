@@ -1,0 +1,34 @@
+[
+	{
+		"nama" : "Muhamad Luffi Dwi Daliana",
+		"umur": 23,
+		"nim" :"160511052",
+		"lulus" : true,
+		"hobi" : [
+			"coding",
+			"gamming"
+		],
+		"pembimbing": {
+			"pembimbing1": "Freddy Whicaksono",
+			"pembimbing2": "Dian Novianti"
+		}
+
+	},
+
+	{
+		"nama" : "Muhamad Luffi Dwi Daliana",
+		"umur": 23,
+		"nim" :"160511052",
+		"lulus" : true,
+		"hobi" : [
+			"coding",
+			"gamming"
+		],
+		"pembimbing": {
+			"pembimbing1": "Freddy Whicaksono",
+			"pembimbing2": "Dian Novianti"
+		}
+
+	}
+
+]
